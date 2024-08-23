@@ -1,5 +1,5 @@
 {
-	"name": "holoscan-template",
+	"name": "playground-inference-holoscan",
 	"image": "nvcr.io/nvidia/clara-holoscan/holoscan:v2.2.0-dgpu",
 	"customizations": {
 		"jetbrains": {
